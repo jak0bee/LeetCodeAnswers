@@ -5,7 +5,7 @@ Welcome to my repository where I document my coding journey through solving vari
 ## Structure
 
 - `.idea/`: IDE configuration files
-- `Problem directories`: Named after the problem, containing the solution and explanation.
+- `Problem directories`: Named after the problem, containing the description, solution and explanation of a problem.
 
 ## Language
 
