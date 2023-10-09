@@ -16,7 +16,3 @@ Feel free to explore, and any feedback or contributions are welcome!
 ## Contributing
 
 If you find any issues or have solutions to additional problems, feel free to open a pull request or issue.
-
-## License
-
-[MIT](LICENSE)
